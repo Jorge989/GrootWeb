@@ -36,7 +36,7 @@ function App() {
 <button className="Login">
   LOGIN
 </button>
-<img src={Shop} alt="one" className="Shoplogo" alt="icon"></img>
+<img src={Shop}  className="Shoplogo" alt="icon"></img>
 </div>
 
 {isShow && (
