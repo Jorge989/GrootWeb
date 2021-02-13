@@ -6,8 +6,7 @@ import Share from './assets/Grupo 89.svg'
 import './App.css';
 import { FaYoutube } from 'react-icons/fa';
 import { FaBars } from 'react-icons/fa';
-import { FaInstagram } from 'react-icons/fa';
-import { FaFacebook } from 'react-icons/fa';
+
 import {
   Header,Continer
 } from './styles'
@@ -37,12 +36,12 @@ function App() {
 <button className="Login">
   LOGIN
 </button>
-<img src={Shop} className="Shoplogo" alt="icon"></img>
+<img src={Shop} alt="one" className="Shoplogo" alt="icon"></img>
 </div>
 
 {isShow && (
   <div className="fadiv">
-<FaBars className="fabars" color="FF1D6A"/>
+<FaBars className="fabars" color="FF1D6A" onClick={setisShow}/>
   </div>
 )}
 </div>
@@ -59,7 +58,7 @@ function App() {
  </div>
  <div className="circles">
    <div className="groot">
-<img src={Groot} className="grootimg"></img>
+<img src={Groot} alt="grootimg"className="grootimg"></img>
    </div>
 <div className="yellow"></div>
 <div className="green"></div>
@@ -91,7 +90,7 @@ Includes figure and instructions. Requires alkaline batteries required</p>
  </div>
  <footer>
    <div className="footer">
-     <img src={Share} className="share"/>
+     <img src={Share}  alt="shareimg"className="share"/>
 
    </div>
  </footer>
