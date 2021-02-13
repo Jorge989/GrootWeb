@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.624" height="44" viewBox="0 0 55.624 44">
+  <g id="Grupo_89" data-name="Grupo 89" transform="translate(-1474.376 282)">
+    <g id="CART_-_-_-" data-name="CART - - -" transform="translate(-330 -328)">
+      <path id="cart" d="M40.536,18.2,35.811,33.078a2.5,2.5,0,0,1-2.384,1.766H15.19a2.6,2.6,0,0,1-2.429-1.634L5.785,14.533H1.766a1.766,1.766,0,0,1,0-3.533H7.021A1.808,1.808,0,0,1,8.7,12.192l7.2,19.12H32.676L36.429,19.39h-20.8a1.766,1.766,0,1,1,0-3.533H38.858a1.756,1.756,0,0,1,1.413.751A1.712,1.712,0,0,1,40.536,18.2ZM16.073,37.185a2.864,2.864,0,1,0,2.031.839A2.912,2.912,0,0,0,16.073,37.185Zm15.852,0a2.864,2.864,0,1,0,2.031.839A2.912,2.912,0,0,0,31.925,37.185Z" transform="translate(1804.376 47.075)" fill="#fff"/>
+      <g id="Elipse_31" data-name="Elipse 31" transform="translate(1834 47)" fill="#ff5252" stroke="#707070" stroke-width="1">
+        <circle cx="13" cy="13" r="13" stroke="none"/>
+        <circle cx="13" cy="13" r="12.5" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(1847 65)" fill="#fff" font-size="20" font-family="Raleway-Medium, Raleway" font-weight="500" letter-spacing="0.055em"><tspan x="-4.5" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

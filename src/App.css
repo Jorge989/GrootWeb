@@ -1,17 +1,14 @@
-.App {
-  text-align: center;
+html{
+  background-color: #5E713F;
+  position: absolute;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+/* 
+.geral{
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+  position: fixed;
+  margin-left: 70px;
+} */
 
 .App-header {
   background-color: #282c34;
